@@ -13,8 +13,8 @@
 <br>---------------------
 <br>##All class in Java##
 <br>
-<br>Buffer_main.java                = class main
-<br>Entrada.java                    = class input data
+<br>Buffer_main.java            /t    = class main
+<br>Entrada.java                /t    = class input data
 <br>LocalShell.java                 = class stack
 <br>Saida.java                      = class output data
 <br>syn_Valores.java                = class list stack
