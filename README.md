@@ -1,8 +1,8 @@
 # Com_Arduino_Java_Serial
-
-Application IOT - Internet of Things - to collect data from Sensors using Arduino. This data is sent to Raspberry, in which it has a stack, after that in another application Raspberry sends to some cloud the data at a certain time!
-
-Equipment:
+<br>
+<br>Application IOT - Internet of Things - to collect data from Sensors using Arduino. This data is sent to Raspberry, in which it has a stack, after that in another application Raspberry sends to some cloud the data at a certain time!
+<br>
+<br>Equipment:
 <br>-> Sensor Pluviometer Digital
 <br>-> Sensor BMP180
 <br>-> Sensor DHT 22
@@ -11,7 +11,7 @@ Equipment:
 <br>-> Cloud Computing (Configured in IOT - Amazon)
 <br>
 <br>---------------------
-<br><<All class in Java>>
+<br>##All class in Java##
 <br>
 <br>Buffer_main.java                = class main
 <br>Entrada.java                    = class input data
@@ -20,7 +20,7 @@ Equipment:
 <br>syn_Valores.java                = class list stack
 <br>
 <br>-------------------------------------
-<br><<All class in Node.js (JavaScript)>>
+<br>##All class in Node.js (JavaScript)##
 <br>conexao.js                      = class in .js for communication Raspberry with Cloud
 <br>
 <br>-------------------
