@@ -24,7 +24,7 @@
 <br>conexao.js                      = class in .js for communication Raspberry with Cloud
 <br>
 <br>-------------------
-<br><<Class in Arduino>>
+<br>##Class in Arduino##
 <br>
 <br>Adafruit_BMP085.cpp             = class for barometer (pressure, temperature and altitude)
 <br>Adafruit_BMP085.h               = class for barometer (pressure, temperature and altitude)
