@@ -47,7 +47,6 @@
 <br>Steps for execute!
 <br>
 <br>sudo apt-get install librxtx-java
-<br>sudo dpkg -i teamviewer_11.0.67687_i386.deb ; sudo apt-get install -f   // PRESTAR ATENÇÃO NA VERSÃO
 <br>
 <br>Application JAVA RASPBERRY
 <br>
